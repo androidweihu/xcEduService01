@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="xcEduService01" target="1.8" />
+      <module name="xcframeworkcommon" target="1.8" />
+      <module name="xcframeworkmodel" target="1.8" />
+      <module name="xcframeworkutils" target="1.8" />
+      <module name="xcserviceapi" target="1.8" />
+      <module name="xcservicemanagecms" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
